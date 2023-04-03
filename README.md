@@ -1,5 +1,5 @@
 # MScCodeAccess
-Code accessibility to MSc project
+A Genetic Dissection and Fine-mapping of Alzheimer’s Disease Risk Factors in the Human Leukocyte Antigen Complex
 
 For repeatability and transparency all code, figures and supplementary tables detailed in MSc 'A Genetic Dissection and Fine-mapping of Alzheimer’s Disease Risk Factors in the Human Leukocyte Antigen Complex' can be accessed from this page. 
 
