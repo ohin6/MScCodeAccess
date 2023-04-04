@@ -2,10 +2,11 @@
 
 For repeatability and transparency all code, figures and supplementary tables detailed in MSc 'A Genetic Dissection and Fine-mapping of Alzheimer’s Disease Risk Factors in the Human Leukocyte Antigen Complex' can be accessed from this page. 
 
-# Description
+# Included
 1. To access R-scripts used in analysis see folder 'Rscripts'
 2. To access high resolution figures from report see folder 'Figures'
 3. To access supplementary tables see folder 'Supplementary Tables'
+4. To access Supplementary Codes see folder 'SupplementaryCode'
 4. To access relevant genomic annotation data from Nott et al., 2019 see 'Nott_2019AnnotationData'
 
 # Excluded 

@@ -69,8 +69,7 @@ dat_HLA_HighRes <-
 cognitive = read.csv('/Users/owen/Library/Mobile Documents/com~apple~CloudDocs/MSc Project/R-scripts/Raw_data/CohortStudy/PhenotypicData/umlcha_sleepcog_04-2021x.csv') %>%
   select(FID, p1age, sex, gfstd_int:gvstd_lin) %>%
   mutate(across(everything(), ~replace(.x, .x == -9, NA))) %>%
-  rename(ID = FID) %>%
-  mutate(gfstd_int = as.numeric(gvstd_int))
+  rename(ID = FID)
 
 
 ###################
